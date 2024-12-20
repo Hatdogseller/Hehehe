@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>TALONG NA MAGABA</title>
+  
 </head>
 
 <body
